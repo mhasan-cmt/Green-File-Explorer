@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Green File Manager</string>
+    <string name="Open_Drawer">Open Navigation Drawer</string>
+    <string name="Close_Drawer">Close Navigation Drawer</string>
 </resources>
